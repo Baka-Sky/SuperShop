@@ -1,0 +1,75 @@
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\Debug\SuperShop-V2-Demo.exe.config
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\Debug\SuperShop-V2-Demo.exe
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\Debug\SuperShop-V2-Demo.pdb
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Properties.Resources.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.GenerateResource.cache
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.exe
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.pdb
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\Debug\AntdUI.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\Debug\AntdUI.xml
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperSho.75965568.Up2Date
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form1.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form2.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\SuperShop.exe.config
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\SuperShop.exe
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\SuperShop.pdb
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\AntdUI.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\MySql.Data.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\UpdateD.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\System.Memory.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\System.Numerics.Vectors.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\System.Buffers.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\Debug\AntdUI.xml
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form1.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form2.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form3.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.del.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Properties.Resources.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Welcome.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.App.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Tools.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.about.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Set.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.GenerateResource.cache
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperSho.75965568.Up2Date
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop.exe
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\Debug\SuperShop.pdb
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Chat.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form1.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form2.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Form3.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.del.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.More.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Properties.Resources.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.SansError.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Welcome.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.App.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Tools.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.about.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop_V2_Demo.Set.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.GenerateResource.cache
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop.exe
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperShop.pdb
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\SuperShop.exe.config
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\SuperShop.exe
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\SuperShop.pdb
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\AntdUI.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\EntityFramework.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\MySql.Data.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\UpdateD.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\System.Memory.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\System.Numerics.Vectors.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\System.Buffers.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\AntdUI.xml
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\EntityFramework.xml
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\Debug\SuperSho.75965568.Up2Date

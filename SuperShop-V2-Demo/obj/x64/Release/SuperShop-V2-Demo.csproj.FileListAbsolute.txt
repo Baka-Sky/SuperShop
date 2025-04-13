@@ -1,0 +1,241 @@
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Set.resources
+D:\Demo\SuperShop-V2-Demo - Pre\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Set.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2)\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Set.resources
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+D:\Demo\SuperShop-V2-Demo - Pre - 副本 (2) - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Set.resources
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\runtimes\win-x64\native\WebView2Loader.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\Microsoft.Web.WebView2.Core.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\Microsoft.Web.WebView2.WinForms.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\Microsoft.Web.WebView2.Wpf.dll
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\Microsoft.Web.WebView2.Core.xml
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\Microsoft.Web.WebView2.WinForms.xml
+D:\Demo\SuperShop-V2-DevVersion\SuperShop-V2-Demo\bin\x64\Release\Microsoft.Web.WebView2.Wpf.xml
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Set.resources
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+D:\Demo\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Set.resources
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+E:\C#-Work\SuperShop-V2-DevVersion - 副本\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe.config
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\SuperShop.exe
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\SuperShop.XmlSerializers.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form2.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form3.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.del.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Properties.Resources.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.SansError.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Welcome.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.App.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Tools.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.about.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Set.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.GenerateResource.cache
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.CoreCompileInputs.cache
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperSho.75965568.Up2Date
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop.exe
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.More.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Chat.resources

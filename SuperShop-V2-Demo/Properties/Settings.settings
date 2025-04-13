@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SuperShop_V2_Demo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SuperShop_V2_Demo_cn_com_webxml_www_WeatherWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws.webxml.com.cn/WebServices/WeatherWebService.asmx</Value>
+    </Setting>
+    <Setting Name="SuperShop_cn_com_webxml_ws_WeatherWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws.webxml.com.cn/WebServices/WeatherWebService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
