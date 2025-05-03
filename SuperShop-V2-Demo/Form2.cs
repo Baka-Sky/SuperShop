@@ -5,11 +5,21 @@ using System.Diagnostics;
 using System.IO;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//使用DllImport需导入命名空间
+using System.Runtime.InteropServices;
+using System.Net.NetworkInformation;
+using System.Security.Cryptography.X509Certificates;
 
 namespace SuperShop_V2_Demo
 {
+
+    
+
     public partial class Form2 : BaseForm
     {
+
+        public string network;
+
         private ConfigManager configManager;
         public static string appUp = "none";
         private UpdateD.Update up = new UpdateD.Update();
@@ -31,6 +41,8 @@ namespace SuperShop_V2_Demo
             InitializeConfigManagers();
             LoadGlobalSettings();
             InitializeUI();
+            
+
         }
 
         private void InitializeConfigManagers()
@@ -108,7 +120,9 @@ namespace SuperShop_V2_Demo
         {
             InitializeForms();
             ShowWelcomeForm();
+            ifnetwork();
             CheckForUpdates();
+
         }
 
         private void InitializeForms()
@@ -141,27 +155,35 @@ namespace SuperShop_V2_Demo
 
         private void CheckForUpdates()
         {
-            Task.Run(() =>
+            if(network == "yes")
             {
-                this.Invoke(new Action(() =>
+                //注意这个线程是造成2018k无网解析失败的罪魁祸首
+                Task.Run(() =>
                 {
-                    if (up.GetUpdate("1F9A4397DB0A47038B5A5247A2DDA6C5", Version.Text))
+                    this.Invoke(new Action(() =>
                     {
-                        Task.Delay(3500);
-                        windowBar1.Loading = true;
-                        windowBar1.Text = "有新更新! 2秒后启动更新服务!";
-
-                        appUp = up.GetUpdateFile("1F9A4397DB0A47038B5A5247A2DDA6C5");
-                        Task.Delay(2000);
-                        Process.Start(new ProcessStartInfo("iexplore.exe", appUp) { UseShellExecute = true });
-                    }
-                    else
-                    {
-                        windowBar1.Loading = false;
-                        windowBar1.Text = "超级小铺";
-                    }
-                }));
-            });
+                        if (up.GetUpdate("1F9A4397DB0A47038B5A5247A2DDA6C5", Version.Text))
+                        {
+                            Task.Delay(3500);
+                            windowBar1.Loading = true;
+                            windowBar1.Text = "有新更新! 2秒后启动更新服务!";
+                            appUp = up.GetUpdateFile("1F9A4397DB0A47038B5A5247A2DDA6C5");
+                            Task.Delay(2000);
+                            Process.Start(new ProcessStartInfo("iexplore.exe", appUp) { UseShellExecute = true });
+                        }
+                        else
+                        {
+                            windowBar1.Loading = false;
+                            windowBar1.Text = "超级小铺";
+                        }
+                    }));
+                });
+            }
+            else
+            {
+                //ABAB
+            }
+            
         }
 
         private void Home_Click(object sender, EventArgs e)
@@ -187,6 +209,43 @@ namespace SuperShop_V2_Demo
         private void Set_Click(object sender, EventArgs e)
         {
             ShowUserControl(f7);
+        }
+
+
+        public async void ifnetwork()
+        {
+            bool isConnected = await Task.Run(() => PingBaidu());
+
+            if (isConnected)
+            {
+                network = "yes";
+                Dwn.Enabled = true;
+
+            }
+            else
+            {
+                network = "no";
+                windowBar1.Text = "进入离线模式";
+                Dwn.Enabled = false;
+            }
+        }
+
+        public bool PingBaidu()
+        {
+            try
+            {
+                using (Ping ping = new Ping())
+                {
+                    // Ping百度，设置超时为2000毫秒(2秒)
+                    PingReply reply = ping.Send("www.baidu.com", 2000);
+                    return reply.Status == IPStatus.Success;
+                }
+            }
+            catch
+            {
+                // 如果出现任何异常(如网络不可用)，则认为断开连接
+                return false;
+            }
         }
     }
 }

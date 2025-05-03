@@ -1,22 +1,29 @@
-﻿using System;
+﻿using AntdUI;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Net.NetworkInformation;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using AntdUI;
 
 namespace SuperShop_V2_Demo
 {
     public partial class Welcome : UserControl
     {
+
+        public string network;
         UpdateD.Update up = new UpdateD.Update();
         private List<string> quotes = new List<string>();
         private Random random = new Random();
         private Timer timer;
+        //public Form2 f1;
 
         public Welcome()
         {
+            //f1 = new Form2();
+            //ifnetwork();
+
             InitializeComponent();
             // 初始化每日一言列表
 
@@ -36,19 +43,38 @@ namespace SuperShop_V2_Demo
             Time.Text = DateTime.Now.ToString();
         }
 
-        private void Welcome_Load(object sender, EventArgs e)
+        private async void Welcome_Load(object sender, EventArgs e)
         {
-            ClearWebBrowserCache();
-            update.Text = up.GetUpdateRem("1F9A4397DB0A47038B5A5247A2DDA6C5");
+            // 等待网络检测完成
+            await ifnetwork();
 
-            Task.Run(() =>
+            // MessageBox.Show("1"); // 调试用，确认执行到这里
+
+            // 直接在UI线程更新
+            if (network == "yes")
             {
-                this.Invoke(new Action(() =>
+                ClearWebBrowserCache();
+                update.Text = up.GetUpdateRem("1F9A4397DB0A47038B5A5247A2DDA6C5");
+
+                // 异步加载网页内容
+                await Task.Run(() =>
                 {
-                    //chromiumWebBrowser1.Load("www.supershop.net.cn/Lo1go.png");
-                }));
-            });
+                    // 这里不需要Invoke，因为不涉及UI操作
+                    // 如果有UI操作，应该在这里收集数据，然后在外面更新UI
+                });
+
+                // 如果需要更新UI
+                // chromiumWebBrowser1.Load("www.supershop.net.cn/Lo1go.png");
+            }
+            else if (network == "no")
+            {
+                update.Text = "超级小铺因检测到您的设备处于无网络环境，已自动进入离线模式！";
+            }
         }
+
+
+
+
 
         private void FindSky_Click(object sender, EventArgs e)
         {
@@ -142,6 +168,28 @@ namespace SuperShop_V2_Demo
         private void Time_Click(object sender, EventArgs e)
         {
 
+        }
+
+        public async Task ifnetwork()  // 改为返回Task而不是async void
+        {
+            bool isConnected = await Task.Run(() => PingBaidu());
+            network = isConnected ? "yes" : "no";
+        }
+
+        public bool PingBaidu()
+        {
+            try
+            {
+                using (Ping ping = new Ping())
+                {
+                    PingReply reply = ping.Send("www.baidu.com", 2000);
+                    return reply.Status == IPStatus.Success;
+                }
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

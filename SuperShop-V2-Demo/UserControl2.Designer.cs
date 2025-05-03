@@ -77,7 +77,7 @@
             // 
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("MiSans", 12F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(242, 18);
+            this.label4.Location = new System.Drawing.Point(242, 19);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(380, 23);
             this.label4.TabIndex = 3;
@@ -99,7 +99,7 @@
             this.Time.AutoSize = true;
             this.Time.BackColor = System.Drawing.Color.Transparent;
             this.Time.Font = new System.Drawing.Font("MiSans", 12F, System.Drawing.FontStyle.Bold);
-            this.Time.Location = new System.Drawing.Point(769, 15);
+            this.Time.Location = new System.Drawing.Point(769, 16);
             this.Time.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Time.Name = "Time";
             this.Time.Size = new System.Drawing.Size(62, 27);
@@ -283,7 +283,7 @@
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.AliceBlue;
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(390, 235);
+            this.pictureBox3.Location = new System.Drawing.Point(378, 240);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(218, 132);
@@ -305,7 +305,7 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.AliceBlue;
             this.label3.Font = new System.Drawing.Font("MiSans", 10F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(789, 428);
+            this.label3.Location = new System.Drawing.Point(809, 430);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(158, 23);
             this.label3.TabIndex = 9;

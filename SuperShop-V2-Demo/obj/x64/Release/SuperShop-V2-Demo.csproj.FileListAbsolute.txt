@@ -214,10 +214,6 @@ E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\SuperShop.pdb
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\AntdUI.dll
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\MySql.Data.dll
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\UpdateD.dll
-E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Memory.dll
-E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Threading.Tasks.Extensions.dll
-E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Numerics.Vectors.dll
-E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\System.Buffers.dll
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\AntdUI.xml
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop-V2-Demo.csproj.AssemblyReference.cache
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Form1.resources
@@ -239,3 +235,7 @@ E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop.pdb
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop.XmlSerializers.dll
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.More.resources
 E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\obj\x64\Release\SuperShop_V2_Demo.Chat.resources
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\EntityFramework.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\EntityFramework.SqlServer.dll
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\EntityFramework.xml
+E:\C#-Work\SuperShop-V3-Himeko\SuperShop-V2-Demo\bin\x64\Release\EntityFramework.SqlServer.xml

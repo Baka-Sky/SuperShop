@@ -208,19 +208,10 @@
   <metadata name="上传者.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="软件名.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="链接.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="上传者.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAADwAAAAhwCAYAAACQvstyAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DQAACw0B7QfALAAA/7JJREFUeF7syCEBwEAQBLH3b/oqYARsQUBI3t09AAAAAAAAAAAAAAAAAADgHxIA
+        DAAACwwBP0AiyAAA/7JJREFUeF7syCEBwEAQBLH3b/oqYARsQUBI3t09AAAAAAAAAAAAAAAAAADgHxIA
         AAAAAAAAAAAAAAAAAMBOAgAAAAAAAAAAAAAAAAAA2EkAAAAAAAAAAAAAAAAAAAA7CQAAAAAAAAAAAAAA
         AAAAYCcBAAAAAAAAAAAAAAAAAADsJAAAAAAAAAAAAAAAAAAAgJ0EAAAAAAAAAAAAAAAAAACwkwAAAAAA
         AAAAAAAAAAAAAHYSAAAAAAAAAAAAAAAAAADATgIAAAAAAAAAAAAAAAAAANhJAAAAAAAAAAAAAAAAAAAA

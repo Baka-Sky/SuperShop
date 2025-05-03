@@ -139,6 +139,10 @@ namespace SuperShop_V2_Demo
 
         private void Chat_Load(object sender, EventArgs e)
         {
+
+
+            timer2.Enabled = false;
+
             xiugai.Text = "聊天室Beta(SkySQLChat)";
 
             ok.Enabled = false;
@@ -185,6 +189,8 @@ namespace SuperShop_V2_Demo
 
         private void ok_Click(object sender, EventArgs e)
         {
+            timer2.Enabled = true;
+
             string name = Username.Text;
 
             this.name.Hide();
